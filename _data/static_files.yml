@@ -506,6 +506,9 @@
 - path: fail/wheelbarrel-dump.gif
   modified_time: 1460655336
   extname: ".gif"
+- path: food/eat-burrito-stack.gif
+  modified_time: 1459177692
+  extname: ".gif"
 - path: food/space-taco.gif
   modified_time: 1425888241
   extname: ".gif"
